@@ -1,0 +1,16 @@
+{
+    "bracketSpacing": true,
+    "space-in-brackets": ["error", "always", {
+        "singleValue": false,
+        "objectsInArrays": true,
+        "arraysInArrays": true,
+        "arraysInObjects": true,
+        "objectsInObjects": true,
+        "propertyName": true
+      }],
+    "printWidth": 100,
+    "trailingComma": "es5",
+    "tabWidth": 2, 
+    "semi": true, 
+    "singleQuote": true
+}
